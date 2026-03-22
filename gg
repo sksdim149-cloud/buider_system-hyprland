@@ -1,0 +1,1 @@
+sudo apt install linux-headers-amd64 nvidia-driver nvidia-dkms nvidia-settings libglx-nvidia1 nvidia-vulkan-icd
